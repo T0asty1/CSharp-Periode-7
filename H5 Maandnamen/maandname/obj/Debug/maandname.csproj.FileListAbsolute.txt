@@ -1,0 +1,5 @@
+C:\Users\milan\source\repos\maandname\maandname\obj\Debug\maandname.csprojAssemblyReference.cache
+C:\Users\milan\source\repos\maandname\maandname\obj\Debug\maandname.Form1.resources
+C:\Users\milan\source\repos\maandname\maandname\obj\Debug\maandname.Properties.Resources.resources
+C:\Users\milan\source\repos\maandname\maandname\obj\Debug\maandname.csproj.GenerateResource.cache
+C:\Users\milan\source\repos\maandname\maandname\obj\Debug\maandname.csproj.CoreCompileInputs.cache
