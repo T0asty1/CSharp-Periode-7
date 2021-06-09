@@ -1,0 +1,10 @@
+C:\Users\31657\source\repos\ColorChange\ColorChange\bin\Debug\ColorChange.exe.config
+C:\Users\31657\source\repos\ColorChange\ColorChange\bin\Debug\ColorChange.exe
+C:\Users\31657\source\repos\ColorChange\ColorChange\bin\Debug\ColorChange.pdb
+C:\Users\31657\source\repos\ColorChange\ColorChange\obj\Debug\ColorChange.csprojAssemblyReference.cache
+C:\Users\31657\source\repos\ColorChange\ColorChange\obj\Debug\ColorChange.Form1.resources
+C:\Users\31657\source\repos\ColorChange\ColorChange\obj\Debug\ColorChange.Properties.Resources.resources
+C:\Users\31657\source\repos\ColorChange\ColorChange\obj\Debug\ColorChange.csproj.GenerateResource.cache
+C:\Users\31657\source\repos\ColorChange\ColorChange\obj\Debug\ColorChange.csproj.CoreCompileInputs.cache
+C:\Users\31657\source\repos\ColorChange\ColorChange\obj\Debug\ColorChange.exe
+C:\Users\31657\source\repos\ColorChange\ColorChange\obj\Debug\ColorChange.pdb
